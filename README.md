@@ -8,4 +8,6 @@
     - this will install the necessary AI libraries on your computer
 4. `python3 main.py`
 
+Note: Google is your friend ... look stuff up
+
 ![sample accuracy output](acc.png)
