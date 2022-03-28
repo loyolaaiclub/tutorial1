@@ -7,3 +7,5 @@
 3. `pip3 install -r requirements.txt`
     - this will install the necessary AI libraries on your computer
 4. python3 main.py
+
+![sample accuracy output](acc.png)
